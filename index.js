@@ -1,3 +1,4 @@
+// AUTO COMPLETE INPUT FIELD.
 import React from 'react';
 import PropTypes from 'prop-types';
 import { FlatList, Platform, StyleSheet, Text, TextInput, View, ViewPropTypes } from 'react-native';
