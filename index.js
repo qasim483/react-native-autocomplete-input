@@ -157,7 +157,6 @@ const iosStyles = {
 		zIndex: 1,
 	},
 	inputContainer: {
-		...border,
 	},
 	input: {
 		backgroundColor: 'white',
